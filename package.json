@@ -1,0 +1,23 @@
+{
+  "name": "waterwall",
+  "version": "1.0.0",
+  "description": "Waterfall/masonry/pinterest style layout module.",
+  "keywords": [
+    "waterfall",
+    "masonry",
+    "pinterest",
+    "layout",
+    "grid"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smeagolem/waterwall.git"
+  },
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/smeagolem/waterwall/issues"
+  },
+  "homepage": "https://github.com/smeagolem/waterwall",
+  "author": "smeagolem",
+  "license": "MIT"
+}
